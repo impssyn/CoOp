@@ -1,0 +1,6 @@
+{
+    "name": "coop",
+    "version": "0.0.1",
+    "description": "A minimalistic app for easy timing your meetings or joint events",
+    "main": "index.ts"
+}
